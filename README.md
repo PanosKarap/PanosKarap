@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Panos</h1>
 <h3 align="center">A Computer Science Student At The University Of Piraeus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panoskarap&label=Profile%20views&color=0e75b6&style=flat" alt="panoskarap" /> </p>
-
 - 🌱 I’m currently learning **HTML / CSS / JAVASCRIPT / PHP / C++ / PYTHON**
 
 - 📫 How to reach me **panoskarap2005@gmail.com**
