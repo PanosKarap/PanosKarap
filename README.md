@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Panos</h1>
 <h3 align="center">A Computer Science Student At The University Of Piraeus</h3>
 
-- 🌱 I’m currently learning **HTML / CSS / JAVASCRIPT / PHP / C++ / PYTHON**
+- 🌱 I’m currently learning **Coding Fundamentals**
 
 - 📫 How to reach me **panoskarap2005@gmail.com**
 
