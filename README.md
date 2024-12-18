@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **panoskarap2005@gmail.com**
 
-- ⚡ Fun fact **I'm a ranked 'GC2' player in Rocket League!**
+- ⚡ Fun fact **I'm a ranked 'GC3' player in Rocket League!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
