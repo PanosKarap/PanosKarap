@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Panos</h1>
-<h3 align="center">💻 Computer Science Student at the University of Piraeus</h3>
+<h3 align="center">💻 Studying Informatics at the University of Piraeus</h3>
 
 - 🌱 I’m currently learning **Coding Fundamentals** to be able to write clean, efficient, and correct code.
 - 📫 Reach me at **panoskarap2005@gmail.com**
