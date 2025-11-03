@@ -26,9 +26,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panoskarap&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
