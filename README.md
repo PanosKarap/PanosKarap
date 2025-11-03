@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Panos</h1>
 <h3 align="center">💻 Studying Informatics at the University of Piraeus</h3>
 
-- 🌱 I’m currently learning **Coding Fundamentals** to be able to write clean, efficient, and correct code.
+- 🌱 I’m currently learning **Coding Fundamentals** to be able to write clean and efficient code.
 - 📫 Reach me at **panoskarap2005@gmail.com**
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
