@@ -1,18 +1,8 @@
 <h1 align="center">Hi, I'm Panos</h1>
 <h3 align="center">💻 Studying Informatics at the University of Piraeus</h3>
 
-- 🌱 I’m currently learning **Coding Fundamentals** to be able to write clean and efficient code.
-- 📫 Reach me at **panoskarap2005@gmail.com**
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/panagiotis-karapanagiotis" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_.panoskarap._" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
+- I’m in my 3rd year, learning **Coding Fundamentals** to be able to write clean and efficient code.
+- Reach me at **panoskarap2005@gmail.com**
 
 <h3 align="left">🛠️ Languages:</h3>
 <p align="left">
