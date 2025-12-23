@@ -2,7 +2,7 @@
 <h3>💻 Studying Informatics at the University of Piraeus</h3>
 
 - I’m in my 3rd year, learning **Coding Fundamentals** to be able to write clean and efficient code.
-- You can also check some of the projects I have made in my free time on the pinned repos below.
+- You can also check some of the projects I've made on the pinned repos below.
 - Reach me at **panoskarap2005@gmail.com**
 
 <h3 align="left">🛠️ Languages</h3>
