@@ -12,4 +12,3 @@
   <img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p><br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panoskarap&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
