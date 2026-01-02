@@ -3,8 +3,9 @@
 
 - I’m in my 3rd year, learning **Coding Fundamentals** to be able to write clean and efficient code.
 - You can also check some of the projects I've made on the pinned repos below.
-- Reach me at **panoskarap2005@gmail.com**
-- My website: https://www.panoskarap.gr/
+- My website: **https://www.panoskarap.gr/**
+- Reach me at panoskarap2005@gmail.com
+
 
 <h3 align="left">🛠️ Languages</h3>
 <p align="left">
