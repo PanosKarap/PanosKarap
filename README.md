@@ -7,7 +7,7 @@
 - Reach me at panoskarap2005@gmail.com
 
 
-<h3 align="left">🛠️ Languages</h3>
+<h3 align="left">🛠️ Languages and Frameworks</h3>
 <p align="left">
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
