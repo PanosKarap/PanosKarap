@@ -15,4 +15,4 @@
   <img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p><br><br><br>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PanosKarap&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PanosKarap&layout=compact&theme=dark)
