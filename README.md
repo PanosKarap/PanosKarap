@@ -1,7 +1,7 @@
 <h1>Hi, my name is Panagiotis Karapanagiotis</h1>
-<h3>💻 Studying Informatics at the University of Piraeus</h3>
+<h3>💻 Studying Informatics at the University of Piraeus, 3rd year</h3>
 
-- I’m in my 3rd year, learning **Coding Fundamentals** to be able to write clean and efficient code.
+- Junior Software Engineer | Full Stack Developer.
 - You can also check some of the projects I've made on the pinned repos below.
 - My website: **https://www.panoskarap.gr/**
 - Reach me at panoskarap2005@gmail.com
